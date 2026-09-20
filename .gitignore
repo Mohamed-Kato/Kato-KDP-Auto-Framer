@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Project specifics
+PDF/
+Source IMGs/
